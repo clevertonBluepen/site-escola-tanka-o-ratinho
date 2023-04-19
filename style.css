@@ -1,0 +1,17 @@
+header{
+    background-color: black;
+}
+
+.suicidio{
+    background-color: rgb(240, 233, 233);
+    color: aliceblue;
+    display: flex;
+}
+body{ background-color: rgb(66, 16, 16);
+}
+.me-ajuda{
+    width: 10%;
+}
+.cu{
+    color: aliceblue;
+}
